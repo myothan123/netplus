@@ -1,0 +1,14 @@
+{
+  "allowedTokens": [
+    {
+      "phone": "0912345678",
+      "token_id": "ABC123",
+      "credit": "5"
+    },
+    {
+      "phone": "0998765432",
+      "token_id": "XYZ789",
+      "credit": "5"
+    }
+  ]
+}
