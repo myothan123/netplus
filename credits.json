@@ -1,13 +1,13 @@
 {
-  "allowedTokens": [
+  "allowedseller": [
     {
-      "seller": "dev test",
-      "token_id": "9d733b74c3afc942",
+      "name": "dev test",
+      "seller_id": "9d733b74c3afc942",
       "credit": "4"
     },
     {
-      "seller": "0998765432",
-      "token_id": "XYZ789",
+      "name": "0998765432",
+      "seller_id": "XYZ789",
       "credit": "5"
     }
   ]
