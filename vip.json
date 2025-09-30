@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "isActive": true,
+"is_vip": true
+
+
+    },
+    {
+        "username": "user2",
+        "password": "password456",
+        "isActive": false
+    },
+    {
+        "username": "vipUser",
+        "password": "vipPassword",
+        "isActive": true
+    }
+]
